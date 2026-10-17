@@ -1,0 +1,1 @@
+{"A": {"text": "Report job-556dfa8f: café\nReady ✓", "complete": true, "error": null}, "B": {"text": "Partial job-556dfa8f", "complete": false, "error": null}, "C": {"text": "Draft job-556dfa8f", "complete": false, "error": "model unloaded"}}
